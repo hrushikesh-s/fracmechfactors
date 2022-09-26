@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.11'
+VERSION = '0.0.12'
 DESCRIPTION = 'This is a package to extract the Non-dimensional factors of fracture mechanics.'
 
 # Setting up
