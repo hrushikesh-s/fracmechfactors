@@ -3,7 +3,7 @@ import os
 
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-json_file_path = os.path.join(THIS_DIR, "Concave_Geometric_factor.json")
+json_file_path = os.path.join(THIS_DIR, "Concave_Geometric factor.json")
 
 
 f = open(json_file_path)
